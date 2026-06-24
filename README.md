@@ -1,6 +1,6 @@
 <!-- 1. CUSTOM SYSTEM NAVIGATION HEADER -->
 <div style="display: flex; align-items: center; gap: 15px; border-bottom: 2px solid #00274c; padding-bottom: 15px; margin-bottom: 25px;">
-  <img src="logo2.png" alt="Maritime Compass Logo" style="height: 50px; width: auto; display: block; flex-shrink: 0;">
+  <img src="./logo2.png" alt="Maritime Logo" style="height: 50px; width: auto; display: block; flex-shrink: 0;">
   <div style="display: flex; flex-direction: column; justify-content: center;">
     <h1 style="margin: 0; padding: 0; font-family: sans-serif; font-size: 1.5rem; font-weight: bold; color: #00274c; line-height: 1.1;">The Sea and Human History</h1>
     <span style="margin: 4px 0 0 0; font-family: sans-serif; font-size: 0.95rem; color: #555; font-style: italic; line-height: 1.1;">An Analytical Digital Archive</span>
